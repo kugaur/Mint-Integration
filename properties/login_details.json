@@ -1,0 +1,28 @@
+{
+    "marq211": {
+        "url": "https://property.onesite.realpage.com/welcomehome/home/login?siteId=3649278#url=%23login", 
+        "username": "", 
+        "password": ""
+    }, 
+    "hdfc_bank": {
+        "url": "https://netbanking.hdfcbank.com/netbanking", 
+        "username": "", 
+        "password": ""
+    }, 
+    "mint": {
+        "url": "https://accounts.intuit.com", 
+        "username": "", 
+        "password": ""
+    }, 
+    "seattle_city_light": {
+        "url": "https://secure8.i-doxs.net/SeattleUtilities/default.aspx", 
+        "username": "", 
+        "security_answer": "", 
+        "password": ""
+    }, 
+    "robinhood": {
+        "url": "https://robinhood.com/login", 
+        "username": "", 
+        "password": ""
+    }
+}
