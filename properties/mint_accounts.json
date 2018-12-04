@@ -1,0 +1,7 @@
+{
+  "Robinhood": {"callback": "robinhood.get_value"},
+  "HDFC": {"callback": "hdfc_bank.get_balance"},
+  "Home Loan EMI": {"callback": "hdfc_bank.get_emi", "due_date": "5"},
+  "Electricity": {"callback": "seattle_lights.get_electricity_bill", "due_date": "20"},
+  "Marq 211": {"callback": "marq211.get_rent", "due_date": "1"}
+}
